@@ -1,7 +1,7 @@
 # Flame-Launcher
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20Flame-Launcher;The%20Ultimate%20Minecraft%20Launcher&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20Flame-Launcher;The%20Ultimate%20Eaglercraft%20Launcher&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <h3 align="center">Welcome to Flame-Launcher!</h3>
